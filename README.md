@@ -15,4 +15,5 @@ This library management system can be used by librarians, library staff, and stu
 
 Contributions to the project are welcome, and developers can enhance the system's features or add new functionalities as per their requirements. The project is open-source, and the source code is available on GitHub for anyone to use and modify.
 
-![alt text](https://raw.githubusercontent.com/rohitchopra-git/Library_Management_System/main/LMS_schema_diagram.jpeg)
+![alt text](LMS_schema_diagram -Rohit.jpeg)
+
